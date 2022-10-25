@@ -3,7 +3,7 @@ University of South Florida - Fall Workshop
 Thursday, October 27, 2022  
 9:00 - 10:30 am EST  
 
-R is a beginner friendly programming language used for statistical computing and graphics. In this workshop, you will be introduced to basic data analysis in R and begin to explore data visualizations, one of the most power aspects of the R programming language. This workshop is the second of two R programming lessons and it is recommended to review material covered by the first workshop, [R Programming: An Introduction](https://github.com/sborrego/r-programming-an-introduction). 
+R is a beginner friendly programming language used for statistical computing and graphics. In this workshop, you will be introduced to basic data analysis in R and begin to explore data visualizations, one of the most power aspects of the R programming language. This workshop is the second of two R programming lessons and it is recommended to review material covered by the first workshop up to the section titled "MISSING DATA" - [R Programming: An Introduction](https://github.com/sborrego/r-programming-an-introduction). The second half of this document will be covered in this workshop.
 
 ***
 
