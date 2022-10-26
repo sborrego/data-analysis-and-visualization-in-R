@@ -51,7 +51,7 @@ Another option is install all the software on your computer. You will need to in
 
 You are welcome to check out the lesson plan ahead of time. 
 
-* The files listed above can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
+* The files listed [HERE](https://github.com/sborrego/r-programming-an-introduction/blob/main/R-programming-an-introduction.pdf) can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
 * The *.rmd* file can be opened in RStudio
 * The *.html* file will open in your browser 
 * The *.pdf* file will open in any PDF viewing program
