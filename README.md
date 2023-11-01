@@ -1,5 +1,5 @@
 # Data Analysis and Visualization in R
-University of South Florida - Spring Workshop  
+University of South Florida - Fall Workshop  
 Thursday, November 9, 2022  
 9:30 - 11:00 am EST  
 
